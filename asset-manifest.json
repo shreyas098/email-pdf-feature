@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/email-pdf-feature/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/email-pdf-feature/static/js/main.63192f42.chunk.js",
+    "main.js.map": "/email-pdf-feature/static/js/main.63192f42.chunk.js.map",
+    "runtime-main.js": "/email-pdf-feature/static/js/runtime-main.e2ee1436.js",
+    "runtime-main.js.map": "/email-pdf-feature/static/js/runtime-main.e2ee1436.js.map",
+    "static/js/2.0652cd0f.chunk.js": "/email-pdf-feature/static/js/2.0652cd0f.chunk.js",
+    "static/js/2.0652cd0f.chunk.js.map": "/email-pdf-feature/static/js/2.0652cd0f.chunk.js.map",
+    "static/js/3.6c9fb9a8.chunk.js": "/email-pdf-feature/static/js/3.6c9fb9a8.chunk.js",
+    "static/js/3.6c9fb9a8.chunk.js.map": "/email-pdf-feature/static/js/3.6c9fb9a8.chunk.js.map",
+    "static/js/4.32f7bc44.chunk.js": "/email-pdf-feature/static/js/4.32f7bc44.chunk.js",
+    "static/js/4.32f7bc44.chunk.js.map": "/email-pdf-feature/static/js/4.32f7bc44.chunk.js.map",
+    "static/js/5.e20239f1.chunk.js": "/email-pdf-feature/static/js/5.e20239f1.chunk.js",
+    "static/js/5.e20239f1.chunk.js.map": "/email-pdf-feature/static/js/5.e20239f1.chunk.js.map",
+    "static/js/6.d17dd6e4.chunk.js": "/email-pdf-feature/static/js/6.d17dd6e4.chunk.js",
+    "static/js/6.d17dd6e4.chunk.js.map": "/email-pdf-feature/static/js/6.d17dd6e4.chunk.js.map",
+    "index.html": "/email-pdf-feature/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/email-pdf-feature/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0652cd0f.chunk.js.LICENSE.txt": "/email-pdf-feature/static/js/2.0652cd0f.chunk.js.LICENSE.txt",
+    "static/js/3.6c9fb9a8.chunk.js.LICENSE.txt": "/email-pdf-feature/static/js/3.6c9fb9a8.chunk.js.LICENSE.txt",
+    "static/js/4.32f7bc44.chunk.js.LICENSE.txt": "/email-pdf-feature/static/js/4.32f7bc44.chunk.js.LICENSE.txt",
+    "static/js/5.e20239f1.chunk.js.LICENSE.txt": "/email-pdf-feature/static/js/5.e20239f1.chunk.js.LICENSE.txt",
+    "static/media/12.6698a200.png": "/email-pdf-feature/static/media/12.6698a200.png",
+    "static/media/13.27b1f15e.png": "/email-pdf-feature/static/media/13.27b1f15e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2ee1436.js",
+    "static/js/3.6c9fb9a8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.63192f42.chunk.js"
+  ]
+}
